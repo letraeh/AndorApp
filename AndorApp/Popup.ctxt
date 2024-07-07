@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Popup
+comment1.params=
+comment1.target=Popup()
+comment2.params=
+comment2.target=void\ Eingabe()
+comment2.text=\r\n\ \ \ \ public\ void\ Benachrichtigung(){\r\n\ \ \ \ \ \ \ \ JOptionPane.showMessageDialog(null,\r\n\ \ \ \ \ \ \ \ \ \ \ \ "Ihre\ Auswahl\ wird\ jetzt\ ausgef\u00FChrt\!",\r\n\ \ \ \ \ \ \ \ \ \ \ \ "GAME\ OVER",\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ JOptionPane.INFORMATION_MESSAGE);\r\n\ \ \ \ }\r\n
+comment3.params=
+comment3.target=int\ getOption()
+numComments=4
